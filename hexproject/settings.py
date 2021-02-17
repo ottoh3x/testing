@@ -24,9 +24,9 @@ TEMPLATE_DIR = os.path.join(BASE_DIR , 'templates')
 SECRET_KEY = '&lar*a8y2bggs61z_mm8-+4vua!+b=--fdn3(%b6n)xkzit*%4'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ['testing-hex.herokuapp.com' , '127.0.0.1']
+ALLOWED_HOSTS = ['otman.pythonanywhere.com']
 
 
 # Application definition
